@@ -6,10 +6,10 @@ Je bent net begonnen als developer bij een bedrijf dat TV's verkoopt: Tech It Ea
 
 ## Recap van vorige opdracht
 
-
+Je hebt inmiddels je applicatie draaiende gekregen. Je hebt ook je database gevuld door middel van het `data.sql` bestand en je hebt de applicatie uitgebreid met een RemoteController, een CIModule en een WallBracket.
 
 ## Opdrachtbeschrijving
-In deze opdracht ga je aan de slag met het toevoegen van relaties aan je applicatie.
+In deze opdracht ga je een aantal belangrijke functionaliteiten van jou applicatie visualiseren met behulp van een sequentiediagram.
 
 ## Randvoorwaarden
 
