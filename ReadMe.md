@@ -17,7 +17,6 @@ De opdracht bevat minstens drie sequentie diagrammen voor elk een andere use cas
 - Voeg een RemoteController toe aan een Television
 - Voeg een CIModule toe aan een Television
 - Voeg een WallBracket toe aan een Television
-- [Optioneel] Bedenk nog een use case waarvoor je een sequentiediagram kan maken.
 
 ### Belangrijk
 
@@ -50,3 +49,7 @@ _Let op_: het is uitdagender om jouw eigen stappenplan te maken. Mocht je niet z
 21. Trek een communicatie pijl van TelevisionRepository terug naar TelevisionService waaraan je de returnwaarde van de save() methode meegeeft.
 22. Trek een communicatie pijl van TelevisionService terug naar TelevisionController waaraan je de returnwaarde van de methode meegeeft.
 23. Trek een communicatie pijl van TelevisionController terug naar Actor waaraan je de juiste HttpStatus meegeeft.
+24. Dit stappenplan kun je nu gebruiken (met wat aanpassingen) om de sequentiediagrammen voor het toevoegen van een CIModule en het toevoegen van een WallBracket te tekenen.
+
+## Bonusopdracht
+Zoek nog een andere usecase die je kunt vertalen naar een sequentiediagram.
