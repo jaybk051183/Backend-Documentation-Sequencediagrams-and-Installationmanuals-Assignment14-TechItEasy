@@ -26,6 +26,12 @@ De sequentie diagrammen laten alle lagen van je applicatie zien en de communicat
 
 _Let op_: het is uitdagender om jouw eigen stappenplan te maken. Mocht je niet zo goed weten waar je moet beginnen, kun je onderstaand stappenplan volgen:
 
+1. Maak alle benodigde lifelines aan voor "RemoteController toevoegen aan Television". Vergeet de Actor en de Database niet.
+2. Gebruik de parameters en return waardes om de communicatie pijlen tussen de lifelines te tekenen.
+3. Doe hetzelfde voor de andere use cases.
+
+## Uitgebreid stappenplan
+
 1. Maak een Actor lifeline.
 2. Maak een TelevisionController lifeline.
 3. Trek een comunicatie pijl tussen Actor en TelevisionController waaraan je de parameters van de `assignRemoteControllerToTelevision` methode aan meegeeft.
